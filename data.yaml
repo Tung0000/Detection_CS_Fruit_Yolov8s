@@ -1,0 +1,21 @@
+names:
+- apple
+- banana
+- grape
+- kiwi
+- lemon
+- orange
+- peach
+- pineapple
+- strawberry
+- watermelon
+nc: 10
+roboflow:
+  license: CC BY 4.0
+  project: fruit-smrhb
+  url: https://universe.roboflow.com/object-detection-fruit/fruit-smrhb/dataset/7
+  version: 7
+  workspace: object-detection-fruit
+test: ../test/images
+train: ../train/images
+val: ../valid/images
