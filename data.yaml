@@ -1,0 +1,22 @@
+names:
+- apple
+- banana
+- grape
+- kiwi
+- lemon
+- non fruit
+- orange
+- peach
+- pineapple
+- strawberry
+- watermelon
+nc: 11
+roboflow:
+  license: CC BY 4.0
+  project: fruit-smrhb-il3zu
+  url: https://universe.roboflow.com/tung01/fruit-smrhb-il3zu/dataset/1
+  version: 1
+  workspace: tung01
+test: ../test/images
+train: ../train/images
+val: ../valid/images
